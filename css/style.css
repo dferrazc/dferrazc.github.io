@@ -268,7 +268,7 @@ hr {
  3. Header
 -------------------------------------------------------- */
 .sidebar-menu {
-  float: left;
+  float: right;
   width: 23%;
   height: 100%;
   position: fixed;
