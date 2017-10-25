@@ -276,6 +276,15 @@ hr {
   color: white;
   overflow-y: hidden;
 }
+.leftbar-menu {
+  float: top;
+  width: 25%;
+  height: 100%;
+  position: fixed;
+  background-color: #242629;
+  color: white;
+  overflow-y: hidden;
+}
 @media screen and (max-width: 1290px) {
   .sidebar-menu {
     overflow-y: scroll;
